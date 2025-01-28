@@ -1,1 +1,1 @@
-javascript programming language learning project.
+Javascript programming language learning project on Udemy.com
